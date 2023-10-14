@@ -1,0 +1,19 @@
+{
+    "name": "esca7a/verification",
+    "description": "Пакет в рамках резюме",
+    "type": "libary",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Esca7a\\Verification\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Pavel Tankov",
+            "email": "pasha.esca1a@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
